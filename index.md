@@ -26,4 +26,4 @@ Selamet, J. (2018). Indonesian Batik Translation: A Case Study. The Internationa
 ### Visit
 juhriselamet.com
 
-![This is an image](https://github.com/juhriselamet/juhriselamet.github.io/blob/main/JuhriSelamet.jpeg](https://raw.githubusercontent.com/juhriselamet/juhriselamet.github.io/main/JuhriSelamet.jpeg)
+![This is an image](https://github.com/juhriselamet/juhriselamet.github.io/blob/main/JuhriSelamet.jpeg?raw=true)
