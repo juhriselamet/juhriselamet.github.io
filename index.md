@@ -1,7 +1,12 @@
-# Juhri Selamet is a design researcher, educator and practitioner.
+Juhri Selamet is a design researcher, educator and practitioner. His works have been published in peer-reviewed journals, such as Taylor & Francis, SAGE Publishing, and Common Ground Research Networks, exploring design topics in health, culture and society.
 
-Publications
 
+```ruby
+His works have examined the role design plays in several forms, such as how Human-centered design can be integrated into a design intervention for physical activity programs during the pandemic, and how mobile plastic recycling can be applied to encourage such behavior, thus resulting in a design prototype. He used a health design approach to examine the interaction of human and non-human actors and how this contributes to or detracts from health and well-being during hotel quarantine, which was published in the Visual Communication journal. He co-authored a paper that examined the role of brand imagery and its effectiveness in recruiting volunteers for non-profit organizations. His research also deconstructed visual Batik patterns in his endeavor to provide a contemporary translation of those patterns.
+
+He has published several articles in The Conversation related to risk communication of air pollution, risk communication design systems of tsunamis, anti-smoking communication design campaigns, and toilets. 
+
+```
 ```ruby
 Selamet, J. (printed; upcoming, 2023). Applying health design thinking to uncover actors in the sustenance of health and wellbeing during hotel quarantine in Kuwait. Visual Communication, 22(1). https://doi.org/10.1177/14703572221126514 
 
@@ -18,10 +23,9 @@ Selamet, J. (2019). Identifying Criteria for Designing Risk Communication System
 Selamet, J. (2018). Indonesian Batik Translation: A Case Study. The International Journal of Visual Design 12 (3): 11-17. http://doi.org/10.18848/2325-1581/CGP/v12i03/11-17 
 ```
 
-### Visit
 
+### Visit
 juhriselamet.com
 
-profiles.uts.edu.au/Juhri.Selamet/publications
+![This is an image](https://github.com/juhriselamet/juhriselamet.github.io/blob/main/JuhriSelamet.jpeg)
 
-google-site-verification: googledcfe0fe7897cee37
