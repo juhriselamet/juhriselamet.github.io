@@ -1,5 +1,5 @@
 # Juhri Selamet is a design researcher, educator and practitioner.
-google-site-verification: googledcfe0fe7897cee37.html
+
 Publications
 
 ```ruby
@@ -24,3 +24,4 @@ juhriselamet.com
 
 profiles.uts.edu.au/Juhri.Selamet/publications
 
+google-site-verification: googledcfe0fe7897cee37
