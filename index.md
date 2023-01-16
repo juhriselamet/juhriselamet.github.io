@@ -21,6 +21,10 @@ Selamet, J. (2019). Identifying Criteria for Designing Risk Communication System
 Selamet, J. (2018). Indonesian Batik Translation: A Case Study. The International Journal of Visual Design 12 (3): 11-17. http://doi.org/10.18848/2325-1581/CGP/v12i03/11-17 
 
 ### Visit
-juhriselamet.com
+[Juhri Selamet's website](https://www.juhriselamet.com/)
 
 ![This is an image](https://github.com/juhriselamet/juhriselamet.github.io/blob/main/JuhriSelamet.jpeg?raw=true)
+
+
+
+### [Those with us virtual exhibition](https://juhriselamet.github.io/thosewithus/)
