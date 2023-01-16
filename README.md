@@ -1,3 +1,6 @@
+### My draft and play is here
+
+
 ### Juhri Selamet is a design researcher, educator and practitioner. His works have been published in peer-reviewed journals, such as Taylor & Francis, SAGE Publishing, and Common Ground Research Networks, exploring design topics in health, culture and society.
 
 His works have examined the role design plays in several forms, such as how Human-centered design can be integrated into a design intervention for physical activity programs during the pandemic, and how mobile plastic recycling can be applied to encourage such behavior, thus resulting in a design prototype. He used a health design approach to examine the interaction of human and non-human actors and how this contributes to or detracts from health and well-being during hotel quarantine, which was published in the Visual Communication journal. He co-authored a paper that examined the role of brand imagery and its effectiveness in recruiting volunteers for non-profit organizations. His research also deconstructed visual Batik patterns in his endeavor to provide a contemporary translation of those patterns.
